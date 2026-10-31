@@ -74,6 +74,11 @@ The objective of this project is to demonstrate practical skills in **data analy
 ## 👨‍💻 Author
 
 **Sanket Kenjale**
-B.Sc. IT Graduate | Aspiring Data Analyst
 
-**Skills:** Power BI | SQL | Tableau | Python | Data Analysis
+B.Sc. IT Graduate | Data Analyst
+
+Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
+
+Created as a Data Analytics project using Microsoft Power BI.
+
+If you find this project interesting, feel free to explore the repository!
